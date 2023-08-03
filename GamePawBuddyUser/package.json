@@ -1,0 +1,20 @@
+{
+  "name": "GamePawBuddyUser",
+  "version": "1.0.0",
+  "description": "A description of your app",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.2"
+  },
+  "devDependencies": {},
+  "jest": {
+    "preset": "react-native"
+  }
+}
